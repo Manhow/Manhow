@@ -1,5 +1,5 @@
 <!-- image -->
-# Hi there 👋 I am Michael, Data Scientist
+# Hi there 👋, I am Michael, Data Scientist.
 
 
 
