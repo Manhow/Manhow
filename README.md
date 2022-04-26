@@ -9,6 +9,7 @@
 </a>
 
 ### 📚 Usefull papers 
+* [Learn Python](https://realpython.com/)
 * [Entropy: How Decision Trees Make Decisions](https://medium.com/towards-data-science/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 
 
