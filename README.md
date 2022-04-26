@@ -1,4 +1,4 @@
-<!-- image -->
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 # Hi there 👋, I am Michael, Data Scientist.
 
 
