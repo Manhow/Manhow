@@ -12,6 +12,7 @@
 * [Learn Python](https://realpython.com/)
 * [Entropy: How Decision Trees Make Decisions](https://medium.com/towards-data-science/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 * [Python Comprehensions](https://medium.com/dev-genius/is-list-comprehension-the-most-effective-way-to-solve-any-tasks-python-b6bb3f5391fa)
+* [map(), filter(), and reduce()](https://medium.com/swlh/higher-order-functions-in-python-map-filter-and-reduce-34299fee1b21)
 
 
  ### 📈 GitHub stats 
