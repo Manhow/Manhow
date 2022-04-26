@@ -11,6 +11,7 @@
 ### 📚 Usefull papers 
 * [Learn Python](https://realpython.com/)
 * [Entropy: How Decision Trees Make Decisions](https://medium.com/towards-data-science/entropy-how-decision-trees-make-decisions-2946b9c18c8)
+* [Python Comprehensions](https://medium.com/dev-genius/is-list-comprehension-the-most-effective-way-to-solve-any-tasks-python-b6bb3f5391fa)
 
 
  ### 📈 GitHub stats 
