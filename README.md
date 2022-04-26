@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![alt text](https://github.com/Manhow/Manhow/Pink Peach Blue Illustration Summer Facebook Cover (1).png?raw=true)
 # Hi there 👋, I am Michael, Data Scientist.
 
 
