@@ -1,4 +1,4 @@
-![My Image](my-image.jpg)
+![My Image](cover.jpg)
 # Hi there 👋, I am Michael, Data Scientist.
 
 
