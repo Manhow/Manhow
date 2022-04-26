@@ -1,6 +1,6 @@
 <!-- image -->
 # Hi there 👋 
-№№ I am a data scientist 
+## I am a data scientist 
 
 
 
