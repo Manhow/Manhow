@@ -1,7 +1,7 @@
 <!-- image -->
 # Hi there 👋
 
-<a href="https://www.linkedin.com/in/zluvsand/">
+<a href="https://www.linkedin.com/in/michael-farmakovskii-55b1a621b/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
