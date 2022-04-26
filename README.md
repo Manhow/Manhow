@@ -11,5 +11,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Manhow&show_icons=true&theme=omni"/>
 
 ### Usefull papers 
+<a href="https://realpython.com/">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</a>
 
 
