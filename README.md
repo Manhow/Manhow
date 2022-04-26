@@ -1,4 +1,4 @@
-![alt text](https://github.com/Manhow/Manhow/main/cover.png?raw=true)
+![My Image](my-image.jpg)
 # Hi there 👋, I am Michael, Data Scientist.
 
 
