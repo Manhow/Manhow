@@ -7,7 +7,7 @@
 </a>
 
 ### 📚 Usefull papers 
-⋅⋅* [Entropy: How Decision Trees Make Decisions](https://medium.com/towards-data-science/entropy-how-decision-trees-make-decisions-2946b9c18c8)
+* [Entropy: How Decision Trees Make Decisions](https://medium.com/towards-data-science/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 
 
  ### 📈 GitHub stats 
