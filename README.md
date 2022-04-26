@@ -1,4 +1,5 @@
-![My Image](cover.jpg)
+![cover](https://user-images.githubusercontent.com/74931073/165365109-eca05c1b-c0f4-4c8a-bee5-81cbcf48d0c9.png)
+
 # Hi there 👋, I am Michael, Data Scientist.
 
 
