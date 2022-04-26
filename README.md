@@ -1,6 +1,7 @@
 <!-- image -->
 # Hi there 👋 
-I am Michael (data scientist)
+№№ I am a data scientist 
+
 
 
 <a href="https://www.linkedin.com/in/michael-farmakovskii-55b1a621b/">
