@@ -19,5 +19,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manhow&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=Manhow&show_icons=true&theme=omni"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manhow&hide=javascript,css,scss,html&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manhow&hide=javascript,css,scss,html&theme=omni)
 
