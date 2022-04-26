@@ -13,6 +13,7 @@
 * [Entropy: How Decision Trees Make Decisions](https://medium.com/towards-data-science/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 * [Python Comprehensions](https://medium.com/dev-genius/is-list-comprehension-the-most-effective-way-to-solve-any-tasks-python-b6bb3f5391fa)
 * [map(), filter(), and reduce()](https://medium.com/swlh/higher-order-functions-in-python-map-filter-and-reduce-34299fee1b21)
+* [Precision and Recall](https://towardsdatascience.com/finally-remember-what-precision-and-recall-is-and-stop-being-afraid-of-these-questions-in-f61981930c67)
 
 
  ### 📈 GitHub stats 
