@@ -1,13 +1,13 @@
 ![cover](https://user-images.githubusercontent.com/74931073/165365109-eca05c1b-c0f4-4c8a-bee5-81cbcf48d0c9.png)
 
-# Hi there 👋, I am Michael, Data Scientist.
-
+## Hi there 👋, I am Michael, Data Scientist.
+## [Portfolio](https://github.com/Manhow/Portfolio)
 
 <a href="https://www.linkedin.com/in/michael-farmakovskii-55b1a621b/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
-[Portfolio](https://github.com/Manhow/Portfolio)
+
 
 <!-- ### 📚 Usefull papers 
 * [Learn Python](https://realpython.com/)
