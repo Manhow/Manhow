@@ -7,6 +7,8 @@
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
+[Portfoli](Phttps://github.com/Manhow/Portfolio)
+
 <!-- ### 📚 Usefull papers 
 * [Learn Python](https://realpython.com/)
 * [Entropy: How Decision Trees Make Decisions](https://medium.com/towards-data-science/entropy-how-decision-trees-make-decisions-2946b9c18c8)
