@@ -7,7 +7,7 @@
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
-[Portfoli](Phttps://github.com/Manhow/Portfolio)
+[Portfolio](https://github.com/Manhow/Portfolio)
 
 <!-- ### 📚 Usefull papers 
 * [Learn Python](https://realpython.com/)
